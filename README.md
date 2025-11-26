@@ -21,6 +21,7 @@ projeto-calculadora/
 │
 ├── calculadora.py          # Implementação da classe Calculadora
 ├── calculadora_test.py     # Testes unitários
+├── requirements.txt        # Dependências do projeto
 ├── README.md               # Este arquivo
 └── atividade1.ipynb        # Documentação dos casos de uso
 ```
@@ -192,5 +193,6 @@ Contribuições são bem-vindas! Para contribuir:
 5. Abra um Pull Request
 
 ---
+
 
 **Desenvolvido usando Python e TDD (Test-Driven Development)**
